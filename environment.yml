@@ -1,4 +1,4 @@
-name: PsycAn_cool-env
+name: dm4bem-env
 
 channels:
   - conda-forge
