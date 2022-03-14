@@ -26,6 +26,8 @@ The notebooks can be run interactively on MyBinder.com by clicking on the button
 
 4. J. Kneifel (2013). Annual Whole Building Energy Simulation of the NIST Net Zero Energy Residential Test Facility Design, *NIST Technical Note 1767*, [DOI 10.6028/NIST.TN.1767](https://doi.org/10.6028/NIST.TN.1767)
 
+[Teaching support:](https://filesender.renater.fr/?s=download&token=f1a3d994-0efc-4abe-bf3e-ea8085a1b22e) (link valid till 13 April 2022)
+
 # Questions for exam
 1. Defintion of science.
 2. Reproducibility crises: definition and how to overcome it.
