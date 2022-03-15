@@ -2,7 +2,7 @@
 
 The notebooks can be run interactively on MyBinder.com by clicking on the button below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmg-git/dm4bem/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cghiaus/dm4bem/HEAD)
 
 ## Tutorials
 - t01: Read weather data and solar radiation from EnergyPlus files.
