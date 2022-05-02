@@ -13,6 +13,24 @@ The notebooks can be run interactively on MyBinder.com by clicking on the button
 - t06: Control by changing the inputs during the itegration in time.
 - t07: Free-cooling by switching between models and changing the inputs during the integration.
 
+## Sessions
+1.	Model
+-	Plan of a simple building.
+-	Hypothesis for boundary conditions, windows, doors, and wall composition.
+-	Write down the adjancy matrix A, the conductance matrix G and the capacity matrix C.
+2.	Pyhton implementation
+-	Implement matrices A, G, and C.
+-	Calculate the solar flows.
+-	Write the input vectors b and f in time.
+-	Simulate a step response
+-	Simulate the response to weather data.
+3.	Debugging and optimization
+-	Debug.
+-	Complex controllers (dead-band, model predictive control).
+4.	Written report and publication
+-	Write report in Jupyter notebook.
+-	Publish the report on GitHub and MyBinder
+
 **References**
 
 1. C. Ghiaus (2013). Causality issue in the heat balance method for calculating the design heating and cooling load. *Energy* 50: 292-301
