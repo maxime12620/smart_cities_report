@@ -18,16 +18,16 @@ The notebooks can be run interactively on MyBinder.com by clicking on the button
 -	Plan of a simple building.
 -	Hypothesis for boundary conditions, windows, doors, and wall composition.
 -	Write down the adjancy matrix **A**, the conductance matrix **G** and the capacity matrix **C**.
-2.	**Pyhton implementation**
+2.	**Pyhton implementation: steady-state**
 -	Implement matrices **A, G,** and **C**.
 -	Calculate the solar flows.
 -	Write the input vectors b and f in time.
+-	Calculate steady-state response.
+3.	**Pyhton implementation**
 -	Simulate a step response
 -	Simulate the response to weather data.
-3.	**Debugging and optimization**
--	Debug.
+-	Debugging and optimization.
 -	Complex controllers (dead-band, model predictive control).
-4.	**Written report and publication**
 -	Write report in Jupyter notebook.
 -	Publish the report on GitHub and MyBinder
 
