@@ -98,4 +98,4 @@ The general structure of the report:
 
 **Submission**
 
-Send the github and mybinder links by mail to Christian.ghiaus@insa-lyon.fr and majid.baseer@insa-lyon.fr
+Send the github and mybinder links by mail to christian.ghiaus@insa-lyon.fr and majid.baseer@insa-lyon.fr
