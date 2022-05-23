@@ -23,7 +23,7 @@ The notebooks can be run interactively on MyBinder.com by clicking on the button
 -	Calculate the solar flows.
 -	Write the input vectors b and f in time.
 -	Calculate steady-state response.
-3.	**Pyhton implementation**
+3.	**Pyhton implementation: simulation**
 -	Simulate a step response
 -	Simulate the response to weather data.
 -	Debugging and optimization.
