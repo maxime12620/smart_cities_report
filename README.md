@@ -78,3 +78,24 @@ The notebooks can be run interactively on MyBinder.com by clicking on the button
 18. Linear form of heat transfer by radiation.
 19. Draw a wall and a window. Make a thermal network model of this system.
 20. Difference between *Differenctial Algebraic Equations* model ans *state-space* representation.
+
+# Written report
+The report will be written in Jupyter notebook, posted on GitHub.com and on MyBinder.org.
+
+The general structure of the report:
+-	Front page: title, authors, date
+-	Contents
+-	Description of the building: drawing, dimensions, materials, etc.
+-	Hypothesis: location, boundary conditions, schedule for usage, etc.
+-	Thermal model (with justifications)
+-	Mathematical model (matrices A, G, C)
+-	Model implementation in Python
+-	Steady-state results
+-	Dynamic simulation results
+-	Optimization (e.g., insulation, HVAC control, solar shading)
+
+**Due date** 07 June 2022
+
+**Submission**
+
+Send the github and mybinder links by mail to Christian.ghiaus@insa-lyon.fr and majid.baseer@insa-lyon.fr
