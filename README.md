@@ -85,7 +85,7 @@ The report will be written in Jupyter notebook, posted on GitHub.com and on MyBi
 The general structure of the report:
 -	Front page: title, authors, date
 -	Contents
--	Description of the building: drawing, dimensions, materials, [maerial properties](https://buildex.techinfus.com/en/uteplenie/teploprovodnost-uteplitelej.html), etc.
+-	Description of the building: drawing, dimensions, materials, [material properties](https://buildex.techinfus.com/en/uteplenie/teploprovodnost-uteplitelej.html), etc.
 -	Hypothesis: location, boundary conditions, schedule for usage, etc.
 -	Thermal model (with justifications)
 -	Mathematical model (matrices A, G, C)
