@@ -56,7 +56,7 @@ The notebooks can be run interactively on MyBinder.com by clicking on the button
 7. Explain why in the SI system of units there are only seven fundamantal units.
 8. What is the difference between the classical SI system of units and the newly addopted one? Why is this differnce important?
 9. What is the relationship between energy and temperature?
-10. Draw thhe basic netword for heat trasfer modelling. Explain each element of the network: temperaure nodes, flow branches, conductances, capacities, temperature sources, flow sources.
+10. Draw the basic network for heat trasfer modelling. Explain each element of the network: temperaure nodes, flow branches, conductances, capacities, temperature sources, flow sources.
 11. Draw the framework for obtaining the *difussion equation*.
 12. Show the analogy between:
     - heat transfer
@@ -70,7 +70,7 @@ The notebooks can be run interactively on MyBinder.com by clicking on the button
 14. Conservation of energy in steady-state and in dynamics.
 15. Definition of sensible heat.
 16. Surface phenomena and volume phenomena in energy balance equation.
-17. Costitituve law for:
+17. Constitutive law for:
     - heat conduction,
     - heat convection,
     - heat advection,
