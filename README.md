@@ -50,7 +50,7 @@ The notebooks can be run interactively on MyBinder.com by clicking on the button
 1. Defintion of science.
 2. Reproducibility crises: definition and how to overcome it.
 3. Definition of physical and computational causality.
-4. Conservation lwas: 2 examples.
+4. Conservation laws: 2 examples.
 5. Relation between conservation laws and symmetry in physics.
 6. Constitutive laws: one example of a univseral law and one of a phenomenological law.
 7. Explain why id the SI system of units there are only seven fundamantal units.
