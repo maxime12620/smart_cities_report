@@ -53,7 +53,7 @@ The notebooks can be run interactively on MyBinder.com by clicking on the button
 4. Conservation laws: 2 examples.
 5. Relation between conservation laws and symmetry in physics.
 6. Constitutive laws: one example of a univseral law and one of a phenomenological law.
-7. Explain why in the SI system of units there are only seven fundamantal units.
+7. Explain why in the SI system of units there are only seven fundamental units.
 8. What is the difference between the classical SI system of units and the newly addopted one? Why is this differnce important?
 9. What is the relationship between energy and temperature?
 10. Draw the basic network for heat trasfer modelling. Explain each element of the network: temperaure nodes, flow branches, conductances, capacities, temperature sources, flow sources.
