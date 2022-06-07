@@ -94,8 +94,15 @@ The general structure of the report:
 -	Dynamic simulation results
 -	Optimization (e.g., insulation, HVAC control, solar shading)
 
-**Due date** 07 June 2022
+**Due date** 15 June 2022
 
 **Submission**
 
-Send the github and mybinder links by mail to christian.ghiaus@insa-lyon.fr and majid.baseer@insa-lyon.fr
+Please indicate on this form https://forms.gle/BUEg3prw9Vr1Z4bk8
+- the names of the students participating in the project (family name in capitals, given name in normal letters)
+- the link to the GitHub for your project
+- the link to MyBinder for your project
+
+The repository needs to have a README.md file in which you explain the content of your repository.
+
+Note: Please check that the links work.
