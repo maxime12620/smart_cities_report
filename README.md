@@ -1,7 +1,5 @@
 # Dynamic Models for Building Energy Management
 
-zoom https://insa-lyon-fr.zoom.us/j/96561771128
-
 The notebooks can be run interactively on MyBinder.com by clicking on the button below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cghiaus/dm4bem/HEAD)
